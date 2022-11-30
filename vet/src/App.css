@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --bg-menu: #7bc3e7;
+  --logo-width: 160px;
+  --content-header-height: 70px;
+  --content-footer-height: 40px;
+}
+
+body {
+  box-sizing: border-box;
+  font-family: "Source Serif Pro", sans-serif;
+  text-align: center;
+  /*color: #7bc3e7*/
+}
+
+/* Lay-out */
+.App {
+  margin: 0px;
+  display: grid;
+  grid-template-columns: var(--logo-width) 1fr;
+  grid-template-rows:
+    var(--content-header-height) 1fr var(--content-footer-height);
+  grid-template-areas:
+    "logo menu"
+    "content content"
+    "footer footer";
+  height: 100vh;
+  background-color: #ffffff;
+}
+
+aside.logo {
+  grid-area: logo;
+}
+
+nav.menu {
+  grid-area: menu;
+}
+
+div.content {
+  grid-area: content;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}

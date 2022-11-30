@@ -1,0 +1,22 @@
+
+nav.menu {
+    background-color: var(--bg-menu);
+    text-align: right;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.menu a {
+    text-decoration: none;
+    font-family: "Source Serif Pro", sans-serif;
+    margin: 5px;
+    margin-left: 20px;
+    font-size: 22px;
+    padding: 6px 15px;
+}
+
+
+.menu a:hover {
+    color: rgb(255, 255, 255);
+}

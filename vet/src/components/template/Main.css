@@ -1,0 +1,17 @@
+div.content {
+    width: 80%;
+    margin: auto;
+    padding: 2% 0 3% 0;
+}
+
+main > div {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 15px rgb(123, 195, 231);
+    padding: 20px;
+    border-radius: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

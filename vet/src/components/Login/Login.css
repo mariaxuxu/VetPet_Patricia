@@ -1,0 +1,51 @@
+.formLogin {
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    padding: 25px;
+    display: block;
+    box-shadow: 0px 0px 15px #7bc3e7;
+    font-family: "Source Serif Pro", sans-serif;
+}
+
+.tituloAuth {
+    text-align: center;
+    font-family: "Source Serif Pro", sans-serif;
+}
+
+.lblLogin {
+    padding: 12px;
+    margin: 5px 0;
+    border-radius: 4px;
+    display: inline-block;
+    font-family: "Source Serif Pro", sans-serif;
+    align-items: center;
+}
+
+.inputAuth {
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 4px;
+    box-shadow: 0px 0px 15px rgb(123, 195, 231);
+    font-family: "Source Serif Pro", sans-serif;
+}
+
+button[type=submit] {
+    background-color: rgb(123, 195, 231);
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100px;
+    align-items: baseline;
+    box-shadow: 0px 0px 15px rgb(123, 195, 231);
+    font-family: "Source Serif Pro", sans-serif;
+}
+
+.msgErro {
+    color: red;
+    text-align: center;
+    font-family: "Source Serif Pro", sans-serif;
+}

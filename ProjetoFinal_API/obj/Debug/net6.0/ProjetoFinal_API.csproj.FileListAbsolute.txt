@@ -1,0 +1,180 @@
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/appsettings.Development.json
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/appsettings.json
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/ProjetoFinal_API.exe
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/ProjetoFinal_API.deps.json
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/ProjetoFinal_API.runtimeconfig.json
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/ProjetoFinal_API.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/ProjetoFinal_API.pdb
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.csproj.AssemblyReference.cache
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.GeneratedMSBuildEditorConfig.editorconfig
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.AssemblyInfoInputs.cache
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.AssemblyInfo.cs
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.csproj.CoreCompileInputs.cache
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.MvcApplicationPartsAssemblyInfo.cs
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.MvcApplicationPartsAssemblyInfo.cache
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/obj/Debug/net6.0/staticwebassets.build.json
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/obj/Debug/net6.0/staticwebassets.development.json
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/obj/Debug/net6.0/scopedcss/bundle/ProjetoFinal_API.styles.css
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.csproj.CopyComplete
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/obj/Debug/net6.0/refint/ProjetoFinal_API.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.pdb
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.genruntimeconfig.cache
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/obj/Debug/net6.0/ref/ProjetoFinal_API.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/System.Drawing.Common.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/System.Runtime.Caching.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/System.Security.Permissions.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/System.Windows.Extensions.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+E:/Maria Clara/Cotuca/ProjetoFinal/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/appsettings.Development.json
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/appsettings.json
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/ProjetoFinal_API
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/ProjetoFinal_API.deps.json
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/ProjetoFinal_API.runtimeconfig.json
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/ProjetoFinal_API.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/ProjetoFinal_API.pdb
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.csproj.AssemblyReference.cache
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.AssemblyInfoInputs.cache
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.AssemblyInfo.cs
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.csproj.CoreCompileInputs.cache
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.MvcApplicationPartsAssemblyInfo.cs
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.MvcApplicationPartsAssemblyInfo.cache
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/obj/Debug/net6.0/scopedcss/bundle/ProjetoFinal_API.styles.css
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.csproj.CopyComplete
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/obj/Debug/net6.0/refint/ProjetoFinal_API.dll
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.pdb
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.genruntimeconfig.cache
+/Users/u21442/Downloads/VetPet-master/ProjetoFinal_API/obj/Debug/net6.0/ref/ProjetoFinal_API.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/appsettings.Development.json
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/appsettings.json
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/ProjetoFinal_API
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/ProjetoFinal_API.deps.json
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/ProjetoFinal_API.runtimeconfig.json
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/ProjetoFinal_API.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/ProjetoFinal_API.pdb
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/u21442/VetPet/ProjetoFinal_API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/u21442/VetPet/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.csproj.AssemblyReference.cache
+/Users/u21442/VetPet/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/u21442/VetPet/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.AssemblyInfoInputs.cache
+/Users/u21442/VetPet/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.AssemblyInfo.cs
+/Users/u21442/VetPet/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.csproj.CoreCompileInputs.cache
+/Users/u21442/VetPet/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.MvcApplicationPartsAssemblyInfo.cs
+/Users/u21442/VetPet/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.MvcApplicationPartsAssemblyInfo.cache
+/Users/u21442/VetPet/ProjetoFinal_API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/u21442/VetPet/ProjetoFinal_API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/u21442/VetPet/ProjetoFinal_API/obj/Debug/net6.0/scopedcss/bundle/ProjetoFinal_API.styles.css
+/Users/u21442/VetPet/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.csproj.CopyComplete
+/Users/u21442/VetPet/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.dll
+/Users/u21442/VetPet/ProjetoFinal_API/obj/Debug/net6.0/refint/ProjetoFinal_API.dll
+/Users/u21442/VetPet/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.pdb
+/Users/u21442/VetPet/ProjetoFinal_API/obj/Debug/net6.0/ProjetoFinal_API.genruntimeconfig.cache
+/Users/u21442/VetPet/ProjetoFinal_API/obj/Debug/net6.0/ref/ProjetoFinal_API.dll
